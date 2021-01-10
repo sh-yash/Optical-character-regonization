@@ -16,3 +16,12 @@ Outline:
 - Training
 - Predicting
 - Presentation
+
+
+## Note:
+
+-Training data set:
+![Trained ](https://github.com/sh-yash/Optical-character-regonization/blob/master/digits.png)
+
+-In this project we are using KNN algorithm for training our model with using data set of 1000 entity of letters typed differently by same person. and the data on which testing is done is :
+![Test ](https://github.com/sh-yash/Optical-character-regonization/blob/master/num.png)
